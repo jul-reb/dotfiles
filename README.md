@@ -1,3 +1,2 @@
-### Intro
-This is my .bashrc
+##### This is my .bashrc.
 There are many like it, but this one's mine.
